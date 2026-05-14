@@ -51,17 +51,20 @@ The dashboard provides interactive visualizations that help businesses make data
 
 The dataset contains sales-related information such as:
 
-* Retailer Name
-* Product Category
+* Retailer
+* Retailer ID
+* Invoice Date
 * Region
 * State
-* Sales Method
+* City
+* Product
+* Price per Unit
 * Units Sold
 * Total Sales
 * Operating Profit
-* Price per Unit
 * Operating Margin
-* Invoice Date
+* Sales Method
+
 
 ---
 
@@ -104,7 +107,7 @@ The dataset contains sales-related information such as:
 > Add your dashboard screenshots here
 
 ```md
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](AdidasSales/Images/Dashboard.png)
 ```
 
 ---
