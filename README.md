@@ -104,10 +104,9 @@ The dataset contains sales-related information such as:
 
 # 📸 Dashboard Preview
 
-> Add your dashboard screenshots here
 
 ```md
-![Dashboard Screenshot](AdidasSales/Images/Dashboard.png)
+![Dashboard Screenshot](Images/Dashboard.png)
 ```
 
 ---
