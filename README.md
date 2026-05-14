@@ -180,9 +180,11 @@ The dataset contains sales-related information such as:
 
 **Goutham Baggu**
 
-📧 Email: [your-email@example.com](mailto:goutham.baggu5086@gmail.com)
-🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/[yourprofile](https://www.linkedin.com/in/goutham-baggu-a0202728b/))
-💻 GitHub: [https://github.com/yourusername](https://github.com/GouthamBaggu)
+📧 Email: [goutham.baggu5086@gmail.com)](mailto:goutham.baggu5086@gmail.com)
+
+🔗 LinkedIn: [(https://www.linkedin.com/in/goutham-baggu-a0202728b/))](https://www.linkedin.com/in/goutham-baggu-a0202728b/))
+
+💻 GitHub: [(https://github.com/GouthamBaggu)](https://github.com/GouthamBaggu)
 
 ---
 
